@@ -23,6 +23,7 @@ using Android.App;
 //      Build Number
 //      Revision
 //
+// This line was added using github
 // this line was added to test git using vs
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
