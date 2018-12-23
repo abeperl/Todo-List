@@ -1,0 +1,16 @@
+C:\Users\Abe\source\repos\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netstandard2.0\HelloWorld.deps.json
+C:\Users\Abe\source\repos\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netstandard2.0\HelloWorld.dll
+C:\Users\Abe\source\repos\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netstandard2.0\HelloWorld.pdb
+C:\Users\Abe\source\repos\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Abe\source\repos\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Abe\source\repos\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Abe\source\repos\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Abe\source\repos\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.AssemblyInfo.cs
+C:\Users\Abe\source\repos\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Abe\source\repos\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.dll
+C:\Users\Abe\source\repos\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.pdb
+C:\Users\Abe\source\repos\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\Todo.xaml.g.cs
+C:\Users\Abe\source\repos\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\Abe\source\repos\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+C:\Users\Abe\source\repos\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.csproj.CopyComplete
+C:\Users\Abe\source\repos\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.csprojAssemblyReference.cache
